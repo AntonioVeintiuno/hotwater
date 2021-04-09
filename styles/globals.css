@@ -4,7 +4,7 @@
 
 html,
 body {
-  @apply bg-blue-400 p-12;
+  @apply bg-blue-300 p-12;
 }
 
 a {
